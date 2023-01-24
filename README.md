@@ -1,19 +1,31 @@
-### Running the app
+<h1 align="center" id="title">Voting App</h1>
 
-1. Ensure you have `npm` installed.
+<p align="center"><img src="https://socialify.git.ci/inadinerodriguez/voting-app/image?language=1&amp;name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
 
-Follow the instructions for your platform [here](https://github.com/npm/npm).
+<p id="description">A simple voting app inspired by Product Hunt and Reddit made with React.</p>
 
-2. Install `http-server`
+<h2>🚀 Live Link</h2>
 
-````
-npm install
-````
+[9shw90-3000.preview.csb.app/](9shw90-3000.preview.csb.app/)
 
-3. Boot the HTTP server
+  
+  
+<h2>👩‍💻 Skills</h2>
 
-````
-npm run server
-````
+Here're some of the project's best features:
 
-The server is now running at [localhost:3000](localhost:3000)
+*   React
+*   JSX
+*   Components
+*   props
+*   state
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   CodeSandbox
+*   Create React App
+*   NPM

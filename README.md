@@ -1,31 +1,35 @@
 <h1 align="center" id="title">Voting App</h1>
 
-<p align="center"><img src="https://socialify.git.ci/inadinerodriguez/voting-app/image?language=1&amp;name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
 
-<p id="description">A simple voting app inspired by Product Hunt and Reddit made with React.</p>
 
-<h2>🚀 Live Link</h2>
 
-[9shw90-3000.preview.csb.app/](9shw90-3000.preview.csb.app/)
+![Logo](https://socialify.git.ci/inadinerodriguez/voting-app/image?language=1&name=1&owner=1&theme=Light)
 
-  
-  
-<h2>👩‍💻 Skills</h2>
 
-Here're some of the project's best features:
+A simple voting app inspired by Product Hunt and Reddit made with React.
 
-*   React
-*   JSX
-*   Components
-*   props
-*   state
 
-  
-  
-<h2>💻 Built with</h2>
+## 🔗 Live Link
+[9shw90-3000.preview.csb.app/](https://9shw90-3000.preview.csb.app/)
 
-Technologies used in the project:
 
-*   CodeSandbox
-*   Create React App
-*   NPM
+## Project Screenshot
+
+![App Screenshot](https://i.ibb.co/dMq47DM/Screen-Shot-2023-01-23-at-19-38-51.png)
+
+
+## 👩‍💻 Skills
+
+- React
+- JSX
+- Components
+- Props
+- State
+
+
+## ⚒️ Tech Stack
+
+**Client:** React, CodeSandbox
+
+**Server:** Node 
+
